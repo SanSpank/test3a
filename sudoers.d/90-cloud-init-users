@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 on Thu, 05 Nov 2020 14:57:33 +0000
+
+# User rules for skawap
+skawap ALL=(ALL) NOPASSWD:ALL
